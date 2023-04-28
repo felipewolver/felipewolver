@@ -1,6 +1,6 @@
 ## Ola! Sou Felipe Ferreira, desenvolvedor de sistemas e aplicativos. 👌
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={felipewolver}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={wolver98}&theme=blue-green)
 
 ## Linguagens:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
