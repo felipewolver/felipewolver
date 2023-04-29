@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <div style="display: inline_block"> 
-    <img  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Felipe-Wolver-Java">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Felipe-Wolver-Java" height="30" width="40">
 </div
 
 ## Outras tecnologias:
