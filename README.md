@@ -26,4 +26,4 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Portfólio:
-<a target="_blank" href="https://wolver98portfolio.netlify.app/"> Clique aqui! </a>
+<a target="_blank" href="https://wolver98portfolio.netlify.app/"> Clique aqui </a> e confira agora mesmo! 
